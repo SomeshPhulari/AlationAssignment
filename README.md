@@ -12,4 +12,4 @@ TestNG,
 Chrome, 
 Firefox, 
 
-For Running:- You need to import this project in eclipse and run testng.xml on TestNG
+For Running:- You need to import this project in eclipse add TestNG and run testng.xml on TestNG

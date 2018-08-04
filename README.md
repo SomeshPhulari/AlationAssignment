@@ -6,10 +6,10 @@ This Project written in java and will serve an example on Amazon search scenario
 4. Multi Browser testing: Have implemented we can run our script on multiple browser.
 
 Pre-requisites
-Java8,
+Java(JDK1.8.0_81),
 Selenium3, 
 TestNG, 
-Chrome, 
-Firefox, 
+Chrome-68.0, 
+Firefox-61.0, 
 
 For Running:- You need to import this project in eclipse add TestNG and run testng.xml on TestNG
